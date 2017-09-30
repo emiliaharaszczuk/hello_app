@@ -1,0 +1,12 @@
+
+
+Started GET "/" for 37.47.41.43 at 2017-09-30 06:41:38 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/cabox/.rvm/gems/ruby-2.1.2/gems/railties-4.1.6/lib/rails/templates/rails/welcome/index.html.erb (4.8ms)
+Completed 200 OK in 41ms (Views: 27.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 37.47.41.43 at 2017-09-30 06:53:02 -0400
+Processing by ApplicationController#hello as HTML
+  Rendered html template (0.0ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
